@@ -10,5 +10,5 @@
 - ⚡ Fun fact: I really like to talk.
 
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LEON6156SCOTT)](https://git.io/streak-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=LEON6156SCOTT&&show_icons=true&title_color=81a1c1&icon_color=a3be8c&text_color=81a1c1&bg_color=2e3440">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LEON6156SCOTT&theme=midnight-purple)](https://git.io/streak-stats)
+![Tanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEON6156SCOTT&show_icons=true&theme=midnight-purple)
