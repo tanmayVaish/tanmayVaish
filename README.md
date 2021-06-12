@@ -9,3 +9,4 @@
 - 📫 How to reach me: https://www.linkedin.com/in/tanmay-vaish/
 - ⚡ Fun fact: I really like to talk.
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LEON6156SCOTT)](https://git.io/streak-stats)
