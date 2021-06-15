@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **DSA Problems**
 
-- 📫 How to reach me **https://www.linkedin.com/in/tanmay-vaish/**
+- 📫 How to reach me **tanmay.vaish@outlook.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1eLLjtYz_7CSXJSMCOvdjNwCNYefMNmiv/view?usp=sharing](https://drive.google.com/file/d/1eLLjtYz_7CSXJSMCOvdjNwCNYefMNmiv/view?usp=sharing)
 
