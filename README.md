@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tanmay Vaish</h1>
 <h3 align="center">A Full-Stack Developer and Machine Learning Enthusiast from India</h3>
 
+![Alt Text](https://media.giphy.com/media/HteV6g0QTNxp6/giphy.gif)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leon6156scott&label=Profile%20views&color=0e75b6&style=flat" alt="leon6156scott" /> </p>
 
 - 🔭 I’m currently working on **My Portfolio Website**
