@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tanmay Vaish</h1>
 <h3 align="center">A Full-Stack Developer and Machine Learning Enthusiast from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leon6156scott&label=Profile%20views&color=0e75b6&style=flat" alt="leon6156scott" /> </p>
+
 ![Alt Text](https://media.giphy.com/media/HteV6g0QTNxp6/giphy.gif)
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leon6156scott&label=Profile%20views&color=0e75b6&style=flat" alt="leon6156scott" /> </p>
 
 - 🔭 I’m currently working on **My Portfolio Website**
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **tanmay.vaish@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eLLjtYz_7CSXJSMCOvdjNwCNYefMNmiv/view?usp=sharing](https://drive.google.com/file/d/1eLLjtYz_7CSXJSMCOvdjNwCNYefMNmiv/view?usp=sharing)
+- 📄 Know about my experiences [Click here](https://drive.google.com/file/d/1eLLjtYz_7CSXJSMCOvdjNwCNYefMNmiv/view?usp=sharing)
 
 - ⚡ Fun fact **I am really talkative...**
 
