@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leon6156scott&label=Profile%20views&color=0e75b6&style=flat" alt="leon6156scott" /> </p>
 
-<img align="right" src="https://user-images.githubusercontent.com/55585498/122637066-44423580-d10a-11eb-9eb3-600cc900d0b0.jpeg" alt="leon6156scott" />
+<img align="right" src="https://user-images.githubusercontent.com/55585498/122640425-12869a00-d11d-11eb-9d3c-1d7436b3f9c8.png" alt="leon6156scott" />
 
 
 
