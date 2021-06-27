@@ -1,9 +1,10 @@
+
 <h1 align="center">Hi 👋, I'm Tanmay Vaish</h1>
 <h3 align="center">A Full-Stack Developer and Machine Learning Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leon6156scott&label=Profile%20views&color=0e75b6&style=flat" alt="leon6156scott" /> </p>
 
-<img align="right" src="https://user-images.githubusercontent.com/55585498/122640425-12869a00-d11d-11eb-9d3c-1d7436b3f9c8.png" alt="leon6156scott" />
+<img align="right" src="https://user-images.githubusercontent.com/55585498/123553962-879c4400-d79b-11eb-84c4-d4222e6b26b6.png" alt="leon6156scott" />
 
 
 
