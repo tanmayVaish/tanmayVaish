@@ -6,15 +6,15 @@
 
 
 
-- 🔭 I’m currently working on **My Portfolio Website**
+- 🔭 I’m currently working on **Conway's Game of life**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Express**
 
 - 👯 I’m looking to collaborate on **Full-Stack Development**
 
-- 🤝 I’m looking for help with **Javascript**
+- 🤝 I’m looking for help with **Express**
 
-- 💬 Ask me about **DSA Problems**
+- 💬 Ask me about **DSA**
 
 - 📫 How to reach me **tanmay.vaish@outlook.com**
 
