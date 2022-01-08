@@ -6,17 +6,21 @@
 
 
 
-
-
-<img align="left" src="https://user-images.githubusercontent.com/55585498/136650036-f19715ff-46e6-4ad6-acb4-3756f74ed7e1.png" width="150" />
+<img align="left" src="https://user-images.githubusercontent.com/55585498/148656602-2f2c214a-a4c1-473a-bab3-f293c6b81b3e.png" width="250" height="235"/>
 
 ```csharp
 tanmayVaish@github
 -------------------------
-Shell: fish 5.8
+OS: EndeavourOS Linux x86_64
+Kernel: 5.15.11-arch2-1
+Shell: fish 3.3.1
+WM: bspwm
+
 Pronouns: He/Him
-Frameworks: React, Express
+Frameworks: React, Express, NodeJS
+Databases: PostgreSQL
 Languages: C++, JavaScript, Python, Java
+
 ```
 
 <h3 align="left">Connect with me:</h3>
