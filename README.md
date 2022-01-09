@@ -21,7 +21,7 @@ Databases: PostgreSQL
 Languages: C++, JavaScript, Python, Java
 
 ```
-# Latest Blog posts 📘
+## Latest Blog posts 📘
 <!-- BLOG-POST-LIST:START -->
 - [7 New features In JavaScript You Should Try In 2022🔥!](https://tanmay-vaish.hashnode.dev/7-new-features-in-javascript-you-should-try-in-2022)
 - [13 Reasons Why You Should Use Linux!!](https://tanmay-vaish.hashnode.dev/13-reasons-why-you-should-use-linux)
