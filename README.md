@@ -5,8 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leon6156scott&label=Profile%20views&color=0e75b6&style=flat" alt="leon6156scott" /> </p>
 
 
-
-<img align="left" src="https://user-images.githubusercontent.com/55585498/148656602-2f2c214a-a4c1-473a-bab3-f293c6b81b3e.png" width="250" height="235"/>
+<img align="left" src="https://user-images.githubusercontent.com/55585498/148694910-5a7d407a-3f90-4fe2-bc81-255c3d16c391.png" width="250" height="235"/>
 
 ```csharp
 tanmayVaish@github
