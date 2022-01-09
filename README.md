@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Tanmay Vaish</h1>
 <h3 align="center">A Full-Stack Developer (PERN) and Machine Learning and Linux Enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmayVaish&label=Profile%20views&color=0e75b6&style=flat" alt="tanmayVaish" /> </p>
-
 
 <img align="left" src="https://user-images.githubusercontent.com/55585498/148694910-5a7d407a-3f90-4fe2-bc81-255c3d16c391.png" width="250" height="235"/>
 
