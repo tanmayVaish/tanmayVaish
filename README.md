@@ -19,12 +19,15 @@ Databases: PostgreSQL
 Languages: C++, JavaScript, Python, Java
 
 ```
+<a href='https://drive.google.com/file/d/1yreN3EeW8ZYzISgrpMIU4Bt4mcqISHhL/view?usp=sharing' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=Resume&color=gray&style=plastic-square&logo=files' />
+</a>
+
 ## Latest Blog posts 📘
 <!-- BLOG-POST-LIST:START -->
 - [7 New features In JavaScript You Should Try In 2022🔥!](https://tanmay-vaish.hashnode.dev/7-new-features-in-javascript-you-should-try-in-2022)
 - [13 Reasons Why You Should Use Linux!!](https://tanmay-vaish.hashnode.dev/13-reasons-why-you-should-use-linux)
 <!-- BLOG-POST-LIST:END -->
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
