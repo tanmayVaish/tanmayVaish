@@ -19,6 +19,7 @@ Databases: PostgreSQL
 Languages: C++, JavaScript, Python, Java
 
 ```
+<br>
 <a href='https://drive.google.com/file/d/1yreN3EeW8ZYzISgrpMIU4Bt4mcqISHhL/view?usp=sharing' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=Resume&color=gray&style=plastic-square&logo=files' />
 </a>
