@@ -20,9 +20,10 @@ Languages: C++, JavaScript, Python, Java
 
 ```
 <br>
-<a href='https://drive.google.com/file/d/1yreN3EeW8ZYzISgrpMIU4Bt4mcqISHhL/view?usp=sharing' target='_blank' rel='noopener' rel='noreferrer'>
+<a href='https://drive.google.com/file/d/15reQqyi8N5uR4DcnICRktUKK6ZO0N9Zg/view?usp=sharing' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=Resume&color=gray&style=plastic-square&logo=files' />
 </a>
+
 
 ## Latest Blog posts 📘
 <!-- BLOG-POST-LIST:START -->
